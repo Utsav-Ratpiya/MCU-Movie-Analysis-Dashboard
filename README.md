@@ -20,6 +20,12 @@ Designed with a cinematic Marvel-inspired UI theme for an engaging analytical ex
 
 
 
+
+## 📊 Dashboard link:
+https://app.powerbi.com/groups/me/reports/bebea521-92dd-40e0-9bcb-214f12356f65/0abce4179ec7723b0633?experience=power-bi
+
+
+
 ## 🖥️ Dashboard Pages
 
 
@@ -112,12 +118,6 @@ Analytical insights into MCU powers and character abilities:
 | DAX | Calculations & KPIs |
 | Power Query | Data Transformation |
 | Data Visualization | Analytical Storytelling |
-
-
-
-
-## 📊 Dashboard link:
-https://app.powerbi.com/groups/me/reports/bebea521-92dd-40e0-9bcb-214f12356f65/0abce4179ec7723b0633?experience=power-bi
 
 
 
